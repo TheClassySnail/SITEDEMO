@@ -27,8 +27,8 @@ background
 body {
     margin: 0;
     padding-bottom: 1%;
-    background-image: url(images/placeholderbackground.png);
-    background-attachment: fixed;
+    background-image: url(/images/placeholderbackground.png);
+    background-attachment: scroll;
     background-position: center center;
     background-size: cover;
     line-height: 1.6;
